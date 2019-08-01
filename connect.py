@@ -67,4 +67,6 @@ def do_connect(verbose = True):
         if ssid_pass[1]:
             ap.config(password=ssid_pass[1])
         if verbose:
-            print("AP set up as {}".format(ssid_pass[0]), file=sys.stderr)            
+
+            print("AP set up as {}".format(ssid_pass[0]), file=sys.stderr)
+
