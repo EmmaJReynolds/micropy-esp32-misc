@@ -101,3 +101,8 @@ screen $AMPY_PORT 115200
 ```
 ampy run blink.py
 ```
+
+
+## Contributors:
+David Palmer
+Emma Reynolds
